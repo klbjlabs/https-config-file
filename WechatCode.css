@@ -1,7 +1,7 @@
 /*微信二维码样式定义,放在https协议下*/
 .impowerBox .qrcode
 {
-    width: 272px;
+    width: 180px;
     margin:10px auto;
 }
 .impowerBox .title
